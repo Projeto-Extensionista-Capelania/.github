@@ -1,14 +1,10 @@
-# ![Banner da Organização](./banner.png)
+## Quem Somos
 
-## 🎯 Nosso Objetivo
-
-<!-- TODO: Melhorar essa descrição assim que a doc do projeto estiver finalizada -->
-> Desenvolver uma aplicação mobile que auxilie o Pe. Diego
-
+> Somos uma equipe de desenvolvimento dedicada a apoiar a missão de uma capelania que realiza visitas e atendimentos espirituais e terapêuticos a lares de idosos. Nossa aplicação facilita o agendamento de visitas, a comunicação com familiares, o controle financeiro e a gestão das atividades da capelania — tudo com acessibilidade, segurança e praticidade para usuários e administradores.
 
 ---
 
-## 👥 Nossa Equipe
+## Nossa Equipe
 
 Essas são as pessoas que fazem parte da organização:
 

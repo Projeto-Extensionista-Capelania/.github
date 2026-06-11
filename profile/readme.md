@@ -29,14 +29,6 @@ Essas são as pessoas que fazem parte da organização:
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/lucass-santos" title="Perfil de Lucas Santos">
-        <img src="https://github.com/lucass-santos.png" width="100px;" alt="Foto de Lucas Santos no GitHub"/><br>
-        <sub style="display: flex; flex-direction: column; gap: 20px; margin-top: 10px;">
-          Lucas Santos
-        </sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/username5" title="Perfil de Luciana Salgado">
         <img src="https://github.com/username5.png" width="100px;" alt="Foto de Luciana Salgado no GitHub"/><br>
         <sub style="display: flex; flex-direction: column; gap: 20px; margin-top: 10px;">

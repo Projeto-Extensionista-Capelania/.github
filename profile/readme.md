@@ -19,14 +19,6 @@ Essas são as pessoas que fazem parte da organização:
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/gusales" title="Perfil de Gustavo Sales">
-        <img src="https://github.com/gusales.png" width="100px;" alt="Foto de Membro 2 no GitHub"/><br>
-        <sub style="display: flex; flex-direction: column; gap: 20px; margin-top: 10px;">
-          Gustavo Sales
-        </sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/jaquelinemsilva" title="Perfil de Jaqueline Maria">
         <img src="https://github.com/jaquelinemsilva.png" width="100px;" alt="Foto de Jaqueline Maria no GitHub"/><br>
         <sub style="display: flex; flex-direction: column; gap: 20px; margin-top: 10px;">
